@@ -1,0 +1,16 @@
+- name: DotPlus
+  description: |
+    Offline QR & barcode generator with GUI and CLI. Supports bulk CSV input, export to PNG/PDF, and Docker. Fully local and privacy-respecting.
+  website: https://github.com/nigdanil/dotplus
+  license: ⊘ Proprietary
+  source_code: false
+  selfhosted: true
+  platform:
+    - Windows
+    - Linux
+  languages:
+    - Rust
+  dockerized: true
+  category:
+    - File Transfer & Synchronization
+  development: active
